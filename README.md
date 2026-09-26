@@ -18,4 +18,4 @@ Open the project with **Unity 6.4.7f1**, open `Assets/OutdoorsScene.unity`, and 
 
 **Player 1:** `WASD` move · `J` / `Space` strike · `K` heavy attack · `L` grapple · `U` finisher · `Shift` block · `P` pin
 
-The project is a prototype and is still being developed. Features, balance, and presentation may change. A standalone game build and an open-source license are not currently included.
+The project is a prototype and is still being developed. Features, balance, and presentation may change. A standalone game build is not currently included.
